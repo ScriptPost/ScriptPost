@@ -2,6 +2,8 @@
 
 My goal is to help small mom-and-pop businesses, non-profits, and NGOs develop their websites and useful online tools.
 
+I'm passionate about environmental conservation & sustainable living, Contra dance, food, cats, and sleep.
+
 🌱 I'm excited to be learning more about development through OKCoders.
 <!--
 **ScriptPost/ScriptPost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
