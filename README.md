@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi, I'm Andrea!🐞
 
+My goal is to help small mom-and-pop businesses, non-profits, and NGOs develop their websites and useful online tools.
+
+🌱 I'm excited to be learning more about development through OKCoders.
 <!--
 **ScriptPost/ScriptPost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
