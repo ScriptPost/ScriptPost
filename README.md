@@ -2,7 +2,7 @@
 
 My goal is to help small mom-and-pop businesses, non-profits, and NGOs develop and improve their websites and useful online tools.
 
-💜 I'm passionate about environmental conservation & sustainable living, good design, Contra dance, local food, and my cats.
+💜 I'm passionate about environmental conservation & sustainable living, good design, Contra dance, local food, sewing projects, and my cats.
 
 🌱 I'm excited to be learning more about development through OKCoders.
 <!--
