@@ -4,7 +4,7 @@ My goal is to help small mom-and-pop businesses, non-profits, and NGOs develop a
 
 💜 I'm passionate about environmental conservation & sustainable living, good design, Contra dance, local food, sewing projects, and my cats.
 
-🌱 I'm excited to be learning more about development through OKCoders (https://www.techlahoma.org/ok-coders/).
+🌱 I'm excited to be learning more about development through <a href="https://www.techlahoma.org/ok-coders/>OKCoders</a>.
 <!--
 **ScriptPost/ScriptPost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
